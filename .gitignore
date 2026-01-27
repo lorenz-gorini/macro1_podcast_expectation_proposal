@@ -1,0 +1,16 @@
+coding/
+Polarization in news/
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+
+*.bbl
+*.blg
+
+*.pdf
+*.md
+*.zip
+
+.DS_Store
